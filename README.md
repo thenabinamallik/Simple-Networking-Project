@@ -32,7 +32,7 @@ This project demonstrates the design and implementation of a small office networ
          /      \
    [Switch1]  [Switch2]
      |           |
-[PC1,PC2]    [PC3,PC4]
+[PC1,PC2,Printer]    [PC3,PC4,Printer]
 ```
 
 ## 4. IP Addressing Scheme
